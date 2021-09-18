@@ -83,7 +83,7 @@ The following photo shows a preview of the application in production mode
 ## Useful Links
 
 1. 🗂 [Click me to view github repository for this project](https://github.com/Brondchux/hw20-my-portfolio-in-react/)
-2. 🌍 [Click me to view deployed application via heroku](https://github.com/Brondchux/hw20-my-portfolio-in-react/)
+2. 🌍 [Click me to view deployed application via github pages](https://brondchux.github.io/hw20-my-portfolio-in-react/)
 
 ---
 
