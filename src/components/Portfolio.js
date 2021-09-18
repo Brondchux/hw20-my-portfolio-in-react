@@ -29,20 +29,20 @@ function Portfolio() {
 									src={parkerApp}
 									alt="portfolio screenshot of parker parking application"
 								/>
-								<figcaption>
-									Screenshot of parker parking project
-									<br />
-									<div>
-										<a
-											href="https://github.com/zanamama/parker"
-											target="_blank"
-											rel="noreferrer"
-										>
-											<i className="fab fa-github"></i> Preview repo in Github
-										</a>
-									</div>
-								</figcaption>
 							</a>
+							<figcaption>
+								Screenshot of parker parking project
+								<br />
+								<div>
+									<a
+										href="https://github.com/zanamama/parker"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<i className="fab fa-github"></i> Preview repo in Github
+									</a>
+								</div>
+							</figcaption>
 						</figure>
 						<figure>
 							<a
@@ -54,19 +54,19 @@ function Portfolio() {
 									src={owinpicsMedalists}
 									alt="portfolio screenshot of owinpics-medalists application"
 								/>
-								<figcaption>
-									Screenshot of owinpics medalists project <br />
-									<div>
-										<a
-											href="https://github.com/csalhab/olympics-usa-medals-and-medalist-news"
-											target="_blank"
-											rel="noreferrer"
-										>
-											<i className="fab fa-github"></i> Preview repo in Github
-										</a>
-									</div>
-								</figcaption>
 							</a>
+							<figcaption>
+								Screenshot of owinpics medalists project <br />
+								<div>
+									<a
+										href="https://github.com/csalhab/olympics-usa-medals-and-medalist-news"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<i className="fab fa-github"></i> Preview repo in Github
+									</a>
+								</div>
+							</figcaption>
 						</figure>
 						<figure>
 							<a
@@ -78,19 +78,19 @@ function Portfolio() {
 									src={weatherDashboard}
 									alt="portfolio screenshot of weather-dashboard application"
 								/>
-								<figcaption>
-									Screenshot of weather dashboard project
-									<div>
-										<a
-											href="https://github.com/Brondchux/hw6-weather-dashboard"
-											target="_blank"
-											rel="noreferrer"
-										>
-											<i className="fab fa-github"></i> Preview repo in Github
-										</a>
-									</div>
-								</figcaption>
 							</a>
+							<figcaption>
+								Screenshot of weather dashboard project
+								<div>
+									<a
+										href="https://github.com/Brondchux/hw6-weather-dashboard"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<i className="fab fa-github"></i> Preview repo in Github
+									</a>
+								</div>
+							</figcaption>
 						</figure>
 						<figure>
 							<a
@@ -102,19 +102,19 @@ function Portfolio() {
 									src={codeQuiz}
 									alt="portfolio screenshot of code-quiz web application"
 								/>
-								<figcaption>
-									Screenshot of code quiz project
-									<div>
-										<a
-											href="https://github.com/Brondchux/hw4-code-quiz"
-											target="_blank"
-											rel="noreferrer"
-										>
-											<i className="fab fa-github"></i> Preview repo in Github
-										</a>
-									</div>
-								</figcaption>
 							</a>
+							<figcaption>
+								Screenshot of code quiz project
+								<div>
+									<a
+										href="https://github.com/Brondchux/hw4-code-quiz"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<i className="fab fa-github"></i> Preview repo in Github
+									</a>
+								</div>
+							</figcaption>
 						</figure>
 						<figure>
 							<a
@@ -126,20 +126,20 @@ function Portfolio() {
 									src={techBlog}
 									alt="portfolio screenshot of technology blog application"
 								/>
-								<figcaption>
-									Screenshot of tech blog project
-									<br />
-									<div>
-										<a
-											href="https://github.com/Brondchux/hw12-tech-blog"
-											target="_blank"
-											rel="noreferrer"
-										>
-											<i className="fab fa-github"></i> Preview repo in Github
-										</a>
-									</div>
-								</figcaption>
 							</a>
+							<figcaption>
+								Screenshot of tech blog project
+								<br />
+								<div>
+									<a
+										href="https://github.com/Brondchux/hw12-tech-blog"
+										target="_blank"
+										rel="noreferrer"
+									>
+										<i className="fab fa-github"></i> Preview repo in Github
+									</a>
+								</div>
+							</figcaption>
 						</figure>
 					</div>
 				</article>
