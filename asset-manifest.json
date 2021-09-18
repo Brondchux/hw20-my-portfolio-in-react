@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/hw20-my-portfolio-in-react/static/css/main.0f1e685a.chunk.css",
-    "main.js": "/hw20-my-portfolio-in-react/static/js/main.8592c2be.chunk.js",
-    "main.js.map": "/hw20-my-portfolio-in-react/static/js/main.8592c2be.chunk.js.map",
+    "main.css": "/hw20-my-portfolio-in-react/static/css/main.beeafee5.chunk.css",
+    "main.js": "/hw20-my-portfolio-in-react/static/js/main.06b9332a.chunk.js",
+    "main.js.map": "/hw20-my-portfolio-in-react/static/js/main.06b9332a.chunk.js.map",
     "runtime-main.js": "/hw20-my-portfolio-in-react/static/js/runtime-main.75884c04.js",
     "runtime-main.js.map": "/hw20-my-portfolio-in-react/static/js/runtime-main.75884c04.js.map",
     "static/js/2.932c234d.chunk.js": "/hw20-my-portfolio-in-react/static/js/2.932c234d.chunk.js",
@@ -10,13 +10,19 @@
     "static/js/3.814149be.chunk.js": "/hw20-my-portfolio-in-react/static/js/3.814149be.chunk.js",
     "static/js/3.814149be.chunk.js.map": "/hw20-my-portfolio-in-react/static/js/3.814149be.chunk.js.map",
     "index.html": "/hw20-my-portfolio-in-react/index.html",
-    "static/css/main.0f1e685a.chunk.css.map": "/hw20-my-portfolio-in-react/static/css/main.0f1e685a.chunk.css.map",
-    "static/js/2.932c234d.chunk.js.LICENSE.txt": "/hw20-my-portfolio-in-react/static/js/2.932c234d.chunk.js.LICENSE.txt"
+    "static/css/main.beeafee5.chunk.css.map": "/hw20-my-portfolio-in-react/static/css/main.beeafee5.chunk.css.map",
+    "static/js/2.932c234d.chunk.js.LICENSE.txt": "/hw20-my-portfolio-in-react/static/js/2.932c234d.chunk.js.LICENSE.txt",
+    "static/media/code-quiz.dfa7e0b5.png": "/hw20-my-portfolio-in-react/static/media/code-quiz.dfa7e0b5.png",
+    "static/media/gospel-chukwu.7c171429.jpg": "/hw20-my-portfolio-in-react/static/media/gospel-chukwu.7c171429.jpg",
+    "static/media/owinpics-medalists.6a109f27.png": "/hw20-my-portfolio-in-react/static/media/owinpics-medalists.6a109f27.png",
+    "static/media/parker-app.6bbfeae2.png": "/hw20-my-portfolio-in-react/static/media/parker-app.6bbfeae2.png",
+    "static/media/tech-blog.3b382914.png": "/hw20-my-portfolio-in-react/static/media/tech-blog.3b382914.png",
+    "static/media/weather-dashboard.9fc247b7.png": "/hw20-my-portfolio-in-react/static/media/weather-dashboard.9fc247b7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.75884c04.js",
     "static/js/2.932c234d.chunk.js",
-    "static/css/main.0f1e685a.chunk.css",
-    "static/js/main.8592c2be.chunk.js"
+    "static/css/main.beeafee5.chunk.css",
+    "static/js/main.06b9332a.chunk.js"
   ]
 }
