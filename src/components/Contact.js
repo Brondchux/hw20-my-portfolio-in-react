@@ -15,15 +15,15 @@ function Contact() {
 					</p>
 					<ul>
 						<li>
-							<i className="fas fa-phone-alt"></i>
+							<i className="fas fa-phone-alt"></i>&nbsp;
 							<a href="tel:+19178542196">+1 (917) 854-2196</a>
 						</li>
 						<li>
-							<i className="fas fa-envelope"></i>
+							<i className="fas fa-envelope"></i>&nbsp;
 							<a href="mailto:hello@gospelchukwu.com">hello@gospelchukwu.com</a>
 						</li>
 						<li>
-							<i className="fas fa-globe"></i>
+							<i className="fas fa-globe"></i>&nbsp;
 							<a
 								href="https://gospelchukwu.com/"
 								target="_blank"
@@ -33,9 +33,9 @@ function Contact() {
 							</a>
 						</li>
 						<li>
-							<i className="fab fa-github"></i>
+							<i className="fab fa-github"></i>&nbsp;
 							<a
-								href="https://github.com/Brondchux"
+								href="https://github.com/Brondchux/"
 								target="_blank"
 								rel="noreferrer"
 							>
@@ -43,13 +43,23 @@ function Contact() {
 							</a>
 						</li>
 						<li>
-							<i className="fab fa-linkedin"></i>
+							<i className="fab fa-linkedin"></i>&nbsp;
 							<a
 								href="https://www.linkedin.com/in/gospelchukwu/"
 								target="_blank"
 								rel="noreferrer"
 							>
 								linkedin.com/in/gospelchukwu/
+							</a>
+						</li>
+						<li>
+							<i className="fab fa-stack-overflow"></i>&nbsp;
+							<a
+								href="https://stackoverflow.com/users/5280655/brondchux/"
+								target="_blank"
+								rel="noreferrer"
+							>
+								stackoverflow.com/users/5280655/brondchux
 							</a>
 						</li>
 					</ul>
