@@ -1,0 +1,15 @@
+#contact-me ul li {
+	margin-top: 10px;
+}
+
+#contact-me ul li a {
+	color: var(--purple-color);
+}
+
+/* media query for screens below 760px */
+@media screen and (max-width: 760px) {
+	/* center contact me details */
+	#contact-me ul li {
+		text-align: center;
+	}
+}

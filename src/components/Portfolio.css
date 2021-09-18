@@ -1,0 +1,42 @@
+#portfolio-images {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+#portfolio-images figure[data-recent] {
+	flex: 1 1 200px;
+}
+
+#portfolio-images figure {
+	flex: 1 1 200px;
+	border: 1px solid var(--blackish-green);
+	padding: 5px;
+	margin: 10px;
+	border-radius: 10px;
+}
+
+#portfolio-images figure img {
+	width: 100%;
+	border-radius: 10px 10px 0 0;
+}
+
+#portfolio-images figure figcaption {
+	text-align: center;
+	font-size: 0.9rem;
+	padding: 5px;
+	background-color: #000000;
+	color: var(--white-color);
+	border-radius: 0 0 10px 10px;
+}
+
+#portfolio-images figure figcaption a {
+	display: block;
+}
+
+figcaption div {
+	background-color: var(--white-color);
+	padding: 5px;
+	border-radius: 5px;
+	color: var(--blackish-green);
+	margin-top: 3px;
+}

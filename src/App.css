@@ -78,72 +78,6 @@ main section {
 	margin-bottom: 10px;
 }
 
-#portfolio-images {
-	display: flex;
-	flex-wrap: wrap;
-}
-
-#portfolio-images figure[data-recent] {
-	flex: 1 1 200px;
-}
-
-#portfolio-images figure {
-	flex: 1 1 200px;
-	border: 1px solid var(--blackish-green);
-	padding: 5px;
-	margin: 10px;
-	border-radius: 10px;
-}
-
-#portfolio-images figure img {
-	width: 100%;
-	border-radius: 10px 10px 0 0;
-}
-
-#portfolio-images figure figcaption {
-	text-align: center;
-	font-size: 0.9rem;
-	padding: 5px;
-	background-color: #000000;
-	color: var(--white-color);
-	border-radius: 0 0 10px 10px;
-}
-
-#portfolio-images figure figcaption a {
-	display: block;
-}
-
-#contact-me ul li {
-	margin-top: 10px;
-}
-
-#contact-me ul li a {
-	color: var(--purple-color);
-}
-
-figcaption div {
-	background-color: var(--white-color);
-	padding: 5px;
-	border-radius: 5px;
-	color: var(--blackish-green);
-	margin-top: 3px;
-}
-
-/* footer stylings here */
-footer {
-	margin-top: 50px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	min-height: 50px;
-	background-color: var(--green-color);
-	color: var(--white-color);
-}
-
-footer span {
-	font-size: 0.9rem;
-}
-
 /* media query for screens below 760px */
 @media screen and (max-width: 760px) {
 	.article-content article h1 {
@@ -166,27 +100,6 @@ footer span {
 		text-align: center;
 	}
 
-	/* change the header flex direction to column instead of row */
-	header {
-		flex-direction: column;
-		align-items: center;
-		min-height: 200px;
-	}
-
-	header > div {
-		position: relative;
-		top: 0;
-	}
-
-	header > nav {
-		margin-right: 0;
-	}
-
-	header > nav > ul > li {
-		width: 100%;
-		text-align: center;
-	}
-
 	/* reduce the margin top for our main section */
 	main {
 		margin-top: 30px;
@@ -195,10 +108,5 @@ footer span {
 	/* hide every article heading - there's really no need for it on mobile */
 	.article-heading {
 		display: none;
-	}
-
-	/* center contact me details */
-	#contact-me ul li {
-		text-align: center;
 	}
 }
