@@ -39,7 +39,7 @@ function Contact() {
 								target="_blank"
 								rel="noreferrer"
 							>
-								github.com/Brondchux
+								github/BrondChux
 							</a>
 						</li>
 						<li>
@@ -49,7 +49,7 @@ function Contact() {
 								target="_blank"
 								rel="noreferrer"
 							>
-								linkedin.com/in/gospelchukwu/
+								linkedin/GospelChukwu
 							</a>
 						</li>
 						<li>
@@ -59,7 +59,7 @@ function Contact() {
 								target="_blank"
 								rel="noreferrer"
 							>
-								stackoverflow.com/users/5280655/brondchux
+								stackoverflow/BrondChux
 							</a>
 						</li>
 					</ul>
