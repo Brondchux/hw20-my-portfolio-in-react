@@ -1,14 +1,11 @@
 import "./Header.css";
+import gospelchukwu from "../assets/images/gospel-chukwu.jpg";
 
 function Header() {
 	return (
 		<header>
 			<div
-				style={{
-					backgroundImage: `url(${
-						process.env.PUBLIC_URL + "/assets/images/gospel-chukwu.jpg"
-					})`,
-				}}
+				style={{ backgroundImage: `url(${gospelchukwu})` }}
 				title="Gospel Chukwu as of July 2021"
 			></div>
 			<nav>

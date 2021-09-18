@@ -1,4 +1,9 @@
 import "./Portfolio.css";
+import parkerApp from "../assets/images/parker-app.png";
+import techBlog from "../assets/images/tech-blog.png";
+import owinpicsMedalists from "../assets/images/owinpics-medalists.png";
+import weatherDashboard from "../assets/images/weather-dashboard.png";
+import codeQuiz from "../assets/images/code-quiz.png";
 
 function Portfolio() {
 	return (
@@ -21,7 +26,7 @@ function Portfolio() {
 								rel="noreferrer"
 							>
 								<img
-									src="assets/images/parker-app.png"
+									src={parkerApp}
 									alt="portfolio screenshot of parker parking application"
 								/>
 								<figcaption>
@@ -46,7 +51,7 @@ function Portfolio() {
 								rel="noreferrer"
 							>
 								<img
-									src="assets/images/tech-blog.png"
+									src={techBlog}
 									alt="portfolio screenshot of technology blog application"
 								/>
 								<figcaption>
@@ -71,7 +76,7 @@ function Portfolio() {
 								rel="noreferrer"
 							>
 								<img
-									src="assets/images/owinpics-medalists.png"
+									src={owinpicsMedalists}
 									alt="portfolio screenshot of owinpics-medalists application"
 								/>
 								<figcaption>
@@ -95,7 +100,7 @@ function Portfolio() {
 								rel="noreferrer"
 							>
 								<img
-									src="assets/images/weather-dashboard.png"
+									src={weatherDashboard}
 									alt="portfolio screenshot of weather-dashboard application"
 								/>
 								<figcaption>
@@ -119,7 +124,7 @@ function Portfolio() {
 								rel="noreferrer"
 							>
 								<img
-									src="assets/images/code-quiz.png"
+									src={codeQuiz}
 									alt="portfolio screenshot of code-quiz web application"
 								/>
 								<figcaption>
