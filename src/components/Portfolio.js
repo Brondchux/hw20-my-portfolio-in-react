@@ -46,31 +46,6 @@ function Portfolio() {
 						</figure>
 						<figure>
 							<a
-								href="https://live-hw12-tech-blog.herokuapp.com/"
-								target="_blank"
-								rel="noreferrer"
-							>
-								<img
-									src={techBlog}
-									alt="portfolio screenshot of technology blog application"
-								/>
-								<figcaption>
-									Screenshot of tech blog project
-									<br />
-									<div>
-										<a
-											href="https://github.com/Brondchux/hw12-tech-blog"
-											target="_blank"
-											rel="noreferrer"
-										>
-											<i className="fab fa-github"></i> Preview repo in Github
-										</a>
-									</div>
-								</figcaption>
-							</a>
-						</figure>
-						<figure>
-							<a
 								href="https://csalhab.github.io/olympics-usa-medals-and-medalist-news/"
 								target="_blank"
 								rel="noreferrer"
@@ -132,6 +107,31 @@ function Portfolio() {
 									<div>
 										<a
 											href="https://github.com/Brondchux/hw4-code-quiz"
+											target="_blank"
+											rel="noreferrer"
+										>
+											<i className="fab fa-github"></i> Preview repo in Github
+										</a>
+									</div>
+								</figcaption>
+							</a>
+						</figure>
+						<figure>
+							<a
+								href="https://live-hw12-tech-blog.herokuapp.com/"
+								target="_blank"
+								rel="noreferrer"
+							>
+								<img
+									src={techBlog}
+									alt="portfolio screenshot of technology blog application"
+								/>
+								<figcaption>
+									Screenshot of tech blog project
+									<br />
+									<div>
+										<a
+											href="https://github.com/Brondchux/hw12-tech-blog"
 											target="_blank"
 											rel="noreferrer"
 										>
