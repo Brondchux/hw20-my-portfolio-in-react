@@ -106,7 +106,7 @@ main section {
 
 	/* reduce the margin top for our main section */
 	main {
-		margin-top: 30px;
+		padding-top: 30px;
 	}
 
 	/* hide every article heading - there's really no need for it on mobile */

@@ -16,7 +16,7 @@ function Header({ activePage, changeViewPage }) {
 							onClick={() => changeViewPage("About")}
 							className={activePage === "About" ? "active-page" : ""}
 						>
-							About
+							<i className="fas fa-id-badge"></i> About
 						</a>
 					</li>
 					<li>
@@ -25,7 +25,7 @@ function Header({ activePage, changeViewPage }) {
 							onClick={() => changeViewPage("Portfolio")}
 							className={activePage === "Portfolio" ? "active-page" : ""}
 						>
-							Portfolio
+							<i className="fas fa-briefcase"></i> Portfolio
 						</a>
 					</li>
 					<li>
@@ -34,7 +34,7 @@ function Header({ activePage, changeViewPage }) {
 							onClick={() => changeViewPage("Contact")}
 							className={activePage === "Contact" ? "active-page" : ""}
 						>
-							Contact
+							<i className="fas fa-address-card"></i> Contact
 						</a>
 					</li>
 					<li>
@@ -43,7 +43,7 @@ function Header({ activePage, changeViewPage }) {
 							target="_blank"
 							rel="noreferrer"
 						>
-							Resume
+							<i className="fas fa-book-reader"></i> Resume
 						</a>
 					</li>
 				</ul>
