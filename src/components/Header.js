@@ -1,7 +1,7 @@
 import "./Header.css";
 import gospelchukwu from "../assets/images/gospel-chukwu.jpg";
 
-function Header() {
+function Header({ activePage, changeViewPage }) {
 	return (
 		<header>
 			<div
@@ -11,16 +11,38 @@ function Header() {
 			<nav>
 				<ul>
 					<li>
-						<a href="#about-me">About</a>
+						<a
+							href="##"
+							onClick={() => changeViewPage("About")}
+							className={activePage === "About" ? "active-page" : ""}
+						>
+							About
+						</a>
 					</li>
 					<li>
-						<a href="#portfolio">Portfolio</a>
+						<a
+							href="##"
+							onClick={() => changeViewPage("Portfolio")}
+							className={activePage === "Portfolio" ? "active-page" : ""}
+						>
+							Portfolio
+						</a>
 					</li>
 					<li>
-						<a href="#contact-me">Contact</a>
+						<a
+							href="##"
+							onClick={() => changeViewPage("Contact")}
+							className={activePage === "Contact" ? "active-page" : ""}
+						>
+							Contact
+						</a>
 					</li>
 					<li>
-						<a href="https://gospelchukwu.com/doc/Gospel_Chukwu_Resume_012021.pdf">
+						<a
+							href="https://gospelchukwu.com/doc/Gospel_Chukwu_Resume_012021.pdf"
+							target="_blank"
+							rel="noreferrer"
+						>
 							Resume
 						</a>
 					</li>

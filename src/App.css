@@ -11,6 +11,9 @@
 * {
 	/* border: 1px solid var(--purple-color); */
 	line-height: 1.5;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
 }
 
 body {
@@ -29,13 +32,14 @@ a {
 
 /* main section styling */
 main {
-	margin-top: 110px;
+	min-height: 75vh;
+	padding-top: 75px;
 }
 
 main section {
 	display: flex;
 	flex-wrap: wrap;
-	min-height: 30vh;
+	min-height: 60vh;
 	padding: 2%;
 	border: 1px solid lightgrey;
 	border-radius: 20px;
